@@ -1,4 +1,4 @@
-![myPoster.png](https://www.imagemhost.com.br/images/2020/08/26/myPoster.png)
+![myPoster_back.png](https://www.imagemhost.com.br/images/2020/08/26/myPoster_back.png)
 
 <h3 align="center">
   Desafio: Introdução ao React
