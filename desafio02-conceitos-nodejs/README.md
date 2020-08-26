@@ -1,4 +1,4 @@
-![github2.png](https://www.imagemhost.com.br/images/2020/08/26/github2.png)
+![myPoster_back.png](https://www.imagemhost.com.br/images/2020/08/26/myPoster_back.png)
 
 <h3 align="center">
   Desafio: Conceitos do NodeJS
