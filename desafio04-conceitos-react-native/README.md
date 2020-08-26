@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio: Conceitos do ReactJS
+  Desafio: Conceitos do React Native
 </h3> 
 
 <p align="center">
@@ -14,19 +14,19 @@
     <a href="https://rocketseat.com.br/gostack">
         <img alt="GoStack badge" src="https://img.shields.io/static/v1?label=Bootcamp&message=GoStack%2011&color=green&style=plastic">
     <a/>
-    <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">
-        <img alt="Desafio badge" src="https://img.shields.io/static/v1?label=Desafio&message=03&color=orange&style=plastic">
+    <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native">
+        <img alt="Desafio badge" src="https://img.shields.io/static/v1?label=Desafio&message=04&color=orange&style=plastic">
     <a/>  
     <img alt="Custom badge" src="https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=plastic"> 
-        <img alt="ReactJS badge" src="https://img.shields.io/static/v1?label=&style=plastic&logo=React&message=ReactJS&logoColor=white&color=61DAFB"> 
+        <img alt="ReactJS badge" src="https://img.shields.io/static/v1?label=&style=plastic&logo=React&message=React%20Native&logoColor=white&color=blue"> 
     
 </p>
         
 ## Descrição
         
-Aplicação para listar, adicionar e remover cadastro de repositórios, essa aplicação foi desenvolvida para demonstrar os principais conceitos do ReactJS tais como componentização, propriedades, estado e imutabilidade.
+Aplicação para listar e curtir repositórios, essa aplicação foi desenvolvida para demonstrar os principais conceitos do React Native.
 
-[![desafio3.gif](https://s6.gifyu.com/images/desafio3.gif)](https://gifyu.com/image/ldDz)
+[![desafio3.gif](https://s4.gifyu.com/images/desafio44.gif)](https://gifyu.com/image/ldDz)
 
 ## Backend
 
@@ -39,16 +39,14 @@ Para instalar as dependencias do projeto execute:
 $ yarn
 ```  
 
-Com o backend inicializado, para iniciar o frontend execute:
+Com o backend inicializado, para iniciar o projeto execute:
 ```sh
-$ yarn start
+$ yarn ios
 ```  
 
 ## Testes
 
-- **`should be able to add new repository`**: A aplicação deve permitir que ao clicar no botão adiconar, um repositório seja criado no backed e listado no frontend;
-
-- **`should be able to remove repository`**: A Aplicação deve permitir que ao clicar no botão remover, o repositório seja removido do backend e também seja removido da listagem do frontend;
+- **`should add a like to the like counter of the repository`**: Deve permitir ao clicar no botão Curtir, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
 
 Para executar os testes execute:
 ```sh
@@ -57,9 +55,10 @@ $ yarn test
 
 ## Tecnologias  
 
-  - React: biblioteca JavaScript para criar interfaces
-  - Axios: utilizado para consumir APIs
-  - Axios-mock-adapter: utilizado para testar requisições em aplicações React
+  - React Native
+  - Axios
+  - Axios-mock-adapter
+  - Jest
 
 ---
 <p align="center" size="0.1">
