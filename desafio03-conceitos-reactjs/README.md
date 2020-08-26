@@ -1,7 +1,4 @@
-
-<h1 align="center">
-    <img alt="GoStack" src="https://www.imagemhost.com.br/images/2020/04/16/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d676f737461636b2f6865616465722d6465736166696f732e706e67.png"  />
-</h1>
+![myPoster_back.png](https://www.imagemhost.com.br/images/2020/08/26/myPoster_back.png)
 
 <h3 align="center">
   Desafio: Conceitos do ReactJS
