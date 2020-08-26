@@ -1,4 +1,4 @@
-[![wordcloud-3.jpg](https://www.imagemhost.com.br/images/2020/08/26/wordcloud-3.jpg)](https://www.imagemhost.com.br/image/UJGXq)
+[![github.jpg](https://www.imagemhost.com.br/images/2020/08/26/github.jpg)](https://www.imagemhost.com.br/image/UJa0i)
 
 <h2 align="center">
   Desafios Bootcamp GoStack
