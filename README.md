@@ -1,8 +1,12 @@
-## Desafios GoStack 10
+<h2 align="center">
+  Desafios Bootcamp GoStack
+</h2>
+
+### GoStack 10
 
 - [Desafio 04: Introdução ao React](https://github.com/jralvarino/bootcamp-gostack-desafios/tree/master/desafio-facebook)
 
-## Desafios GoStack 11
+### GoStack 11
 
 - [Desafio 02: Conceitos do NodeJS](https://github.com/jralvarino/bootcamp-gostack-desafios/tree/master/desafio02-conceitos-nodejs)
 - [Desafio 03: Conceitos do ReactJS](https://github.com/jralvarino/bootcamp-gostack-desafios/tree/master/desafio03-conceitos-reactjs)
