@@ -1,4 +1,4 @@
-[![github.jpg](https://www.imagemhost.com.br/images/2020/08/26/github.jpg)](https://www.imagemhost.com.br/image/UJa0i)
+![myPoster_back.png](https://www.imagemhost.com.br/images/2020/08/26/myPoster_back.png)
 
 <h2 align="center">
   Desafios Bootcamp GoStack
